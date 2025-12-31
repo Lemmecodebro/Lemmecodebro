@@ -4,7 +4,7 @@
 
 📍 Islamabad, Pakistan  
 📧 [umersohail2357@gmail.com](mailto:umersohail2357@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/umersohail/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/m-umer-sohail/)  
 🔗 [Portfolio](https://github.com/Lemmecodebro)
 
 ---
