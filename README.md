@@ -19,7 +19,7 @@ I am actively learning, sharing knowledge, and contributing to open-source proje
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, SQL, Java, Kotlin  
+**Languages:** Python, SQL, Excel
 **Frameworks & Tools:** TensorFlow, PyTorch, Jetpack Compose, Pandas, NumPy, Matplotlib, Jupyter, Git  
 **Other:** Android Development, Data Analysis, Machine Learning, Deep Learning
 
