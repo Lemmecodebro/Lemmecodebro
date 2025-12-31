@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 I build practical systems combining **data science, machine learning, and software development** to solve real-world problems.  
-Currently focused on my Final Year Project **SpyDarSense**, which uses **Wi-Fi signals and deep learning** to detect hidden spy cameras.
+Recent Completion of my Final Year Project **SpyDarSense**, which uses **Wi-Fi signals and deep learning** to detect hidden spy cameras.
 
 I enjoy **analyzing data, building models, and creating software solutions** that make an impact.  
 I am actively learning, sharing knowledge, and contributing to open-source projects.
