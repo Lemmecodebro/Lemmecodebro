@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Umer Sohail
 
-**Aspiring Data Scientist & Software Developer | FYP: Deep Learning Wi-Fi Spy Camera Detection**
+**Aspiring Data Analyst | CE Grad Nust'25**
 
 📍 Islamabad, Pakistan  
 📧 [umersohail2357@gmail.com](mailto:umersohail2357@gmail.com)  
@@ -29,9 +29,8 @@ I am actively learning, sharing knowledge, and contributing to open-source proje
 
 ### 1. **SpyDarSense** – Deep Learning Wi-Fi Spy Camera Detection (FYP)
 - Detects hidden cameras using **Wi-Fi CSI and bitrate data**.  
-- Uses a **deep learning model** for motion-based classification.  
-- Built Android frontend with **Jetpack Compose**.  
-- **[Repo Link](https://github.com/Lemmecodebro/SpyDarSense)**
+- Uses a **deep learning model** for motion-based classification.   
+- **[Repo Link](https://github.com/forgedynasties/SpydarSenseApp)**
 
 ### 2. **Titanic Survival Prediction**
 - Machine learning classification project predicting Titanic survivors.  
