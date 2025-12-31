@@ -70,7 +70,7 @@ I am actively learning, sharing knowledge, and contributing to open-source proje
 ## 📫 Get in Touch
 I’m open to **collaborations, internships, and mentorship opportunities**.  
 - Email: umersohail2357@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/umersohail/](https://www.linkedin.com/in/umersohail/)  
+- LinkedIn: [https://www.linkedin.com/in/umersohail/](https://www.linkedin.com/in/m-umer-sohail/)  
 - GitHub: [https://github.com/Lemmecodebro](https://github.com/Lemmecodebro)
 
 ---
